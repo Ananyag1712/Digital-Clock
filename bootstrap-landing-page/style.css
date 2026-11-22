@@ -1,0 +1,8 @@
+.hero{
+    background: #0f172a;
+    padding: 100px 0;
+}
+
+.card{
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
